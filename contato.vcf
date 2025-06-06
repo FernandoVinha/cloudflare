@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Vinha;Fernando;;;
+FN:Fernando Vinha
+ORG:Minha Empresa
+TITLE:CEO
+TEL;TYPE=CELL:+5511999999999
+EMAIL:contato@exemplo.com
+URL:https://seusite.com
+END:VCARD
